@@ -11,12 +11,22 @@
       <div class="subBox1">
         <form action="/">
           <label for="email">EMAIL</label><br><br><br>
-          <input type="text-box" id="inBox" name="email"><br>
+          <input type="email" id="inBox" name="email"><br>
         </form>
         <form action="/">
           <label for="email">CPF</label><br><br><br>
           <input type="text-box" id="inBox" name="email"><br>
         </form>
+        <label for="date">DATA DE NASCIMENTO</label><br><br><br><br>
+        <input type="date" name="date" id="date">
+        <p>Quer receber as melhores dicas e ficar por dentro do universo Warren?</p>
+        <p>Então selecione por onde deseja recerber tudo e mais um pouco:</p>
+        <input type="checkbox" name="msg">
+        <label for="msg">Email e SMS</label><br><br><br>
+        
+         
+        <input type="checkbox" name="whats">
+       
       </div>
       <div class="subBox2">
         <form action="/">
@@ -37,6 +47,7 @@
 
 
 <style scoped>
+
   #nome{
     width: 100%;
     height: 6em;
@@ -51,6 +62,7 @@
     display: flexbox;
     position: absolute;
     width: 98%;
+    text-align: left;
 
   }
 

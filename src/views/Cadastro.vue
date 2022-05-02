@@ -3,7 +3,7 @@
     <NavCadastro />
     <FormCadastro />
     
-    <img  id="moça" alt="moça grande" src="@/assets/moçaGrande.png" width="521" height="1080" >
+    <img  id="moça" alt="moça grande" src="@/assets/moçaGrande.png" width="621" height="1287" >
     
   </div>
 </template>
