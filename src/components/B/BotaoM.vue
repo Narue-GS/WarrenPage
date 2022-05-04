@@ -1,10 +1,13 @@
 <template>
-    <button type="button">Button</button>
+    <button type="button">{{msg}}</button>
 </template>
 
 <script>
 export default {
     name:'BotaoM',
+    props:{
+        msg:String,
+    }
 }
 </script>
 
@@ -12,7 +15,7 @@ export default {
 
     button{
         font-weight: 700;
-        font-size: 65%;
+        font-size: 55%;
         background-color: rgb(255, 26, 95);
         color:azure;
         text-align: center;

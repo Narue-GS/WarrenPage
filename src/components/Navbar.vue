@@ -10,7 +10,7 @@
         <a href="#" >Menu1 </a>
         <div class= 'dropdow'>
             <div class="dropdown">
-                <span id="menu">Menu{{num}}</span>
+                <span id="menu">Menu2</span>
                 <div class="dropdown-content">
                     <li>Link1</li><br>
                     <li>Link2</li><br>
@@ -18,7 +18,7 @@
                 </div>
             </div>
         </div>
-        <RouterLink to="/about">About</RouterLink>
+        
         <a href="#" >Menu3 </a>
         <a href="#" >Menu4 </a>
         <a href="#" >Menu5 </a>

@@ -11,7 +11,7 @@
                  potenti dolor mauris<br> eu arcu etiam habitasse<br> 
                  pulvinar, in netus pretium <br>elementum scelerisque potenti 
                  <br>urna sagittis id, curae conubia etiam <br> </h3>
-                 <a href="cadastro"><BotaoM id="b"/></a>
+                 <a href="/cadastro"><BotaoM msg="Cadastre-se" id="b"/></a>
                  
             </div>
             
@@ -29,7 +29,7 @@
                  potenti dolor mauris<br> eu arcu etiam habitasse<br> 
                  pulvinar, in netus pretium <br></h3>
                  
-                 <a href="cadastro"><BotaoM id="b"/></a>
+                 <a href="cadastro"><BotaoM msg="Cadastre-se" id="b"/></a>
             </div>
     </div>
 </template>

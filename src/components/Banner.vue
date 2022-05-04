@@ -5,7 +5,7 @@
             Abra sua conta.<br>É grátis.
         </h1>
         <p>Clique qui para ter saber por onde começar</p>
-        <BotaoB id="banner_b"/>
+        <RouterLink to="/cadastro"><BotaoB id="banner_b"/></RouterLink>
         
     </div>
 </template>
