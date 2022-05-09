@@ -19,8 +19,8 @@
             <input type="text" class="inBox" id="cpf" name="cpf" autocomplete="off" maxlength="14"><br>
             
            
-            <label for="date">DATA DE NASCIMENTO</label><br><br><br><br>
-            <input type="date" name="date" id="date">
+            <label for="date" class='normalLabel'>DATA DE NASCIMENTO</label><br><br><br>
+            <input type="text" name="date" class="inBox" id="date">
 
             <strong>
             <p>Quer receber aszz melhores dicas e ficar por dentro do universo Warren?</p>

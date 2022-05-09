@@ -1,10 +1,9 @@
 <script setup>
-import Banner from '@/components/Banner.vue'
-import Navbar from '@/components/Navbar.vue'
-import Destaques from '@/components/Destaques.vue'
-import Rodape from '@/components/Rodape.vue'
-
-
+import Banner from '../components/Banner.vue'
+import Navbar from '../components/Navbar.vue'
+import Destaques from '../components/Destaques.vue'
+import Rodape from '../components/Rodape.vue'
+import Investir from '../components/Investir.vue'
 </script>
 
 <template>
@@ -12,6 +11,9 @@ import Rodape from '@/components/Rodape.vue'
     <Navbar />
     <Banner/>
     <Destaques />
+    <Investir />
     <Rodape />
   </div>
 </template>
+
+

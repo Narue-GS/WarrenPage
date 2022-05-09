@@ -9,6 +9,7 @@
 
 <script>
 export default {
+  name: 'NavCadastro',
   props: {
     msg: String
   }

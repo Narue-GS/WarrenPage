@@ -29,34 +29,10 @@
           else{
               this.fase += 1
               
+            } 
           }
-          
-
-            
-        }
-    },
-        
-        // verifica(){
-        //   const input = document.querySelector('#cpf')
-
-        //   input.addEventListener('keypress', () => {
-        //     let inputlength = input.value.length
-
-        //     if(inputlength === 3) {
-        //       input
-        //     }
-        //   })
-        // }
-        
-    }
-  
-//   input.addEventListener('keypress', () =>{
-//     let inputlength = input.value.length
-
-//     if(inputlength = 0){
-//         alert(aaa)
-//     }
-// })
+        },
+      }
 
     
     

@@ -42,19 +42,7 @@
                 <li>Das 8h às 20h (dias úteis)</li><br>
                 <li class="fraco">Acesse o WhatsApp</li><br>
                 <li>Das 9h às 18h (dias úteis)</li><br>
-                
 
-
-
-
-
-
-
-
-
-
-                
-        
             </ol>
         </ol>
     </div>

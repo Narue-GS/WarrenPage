@@ -9,8 +9,8 @@
 </template>
 
 <script setup>
-import NavCadastro from '@/components/NavCadastro.vue'
-import FormCadastro from '@/components/FormCadastro.vue'
+import NavCadastro from '../components/NavCadastro.vue'
+import FormCadastro from '../components/FormCadastro.vue'
 </script>
 
 <style>
